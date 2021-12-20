@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "770792508565",
+    "firebase_url": "https://sepeteekleuygulamasi-default-rtdb.firebaseio.com",
+    "project_id": "sepeteekleuygulamasi",
+    "storage_bucket": "sepeteekleuygulamasi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770792508565:android:fce8f55654d713da9c9f9c",
+        "android_client_info": {
+          "package_name": "com.android.sepeteeklefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770792508565-slh852hs8li6ut7pdij4p1i1sa304d20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAABAgmZm0di7BphBjqi6wTzd3eYvqVWpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770792508565-slh852hs8li6ut7pdij4p1i1sa304d20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770792508565:android:2a4feedcdb37d43f9c9f9c",
+        "android_client_info": {
+          "package_name": "com.android.sepeteekleuygulamasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770792508565-slh852hs8li6ut7pdij4p1i1sa304d20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAABAgmZm0di7BphBjqi6wTzd3eYvqVWpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770792508565-slh852hs8li6ut7pdij4p1i1sa304d20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
